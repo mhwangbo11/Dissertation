@@ -8,7 +8,7 @@ fontsize: 11pt
 bibliography: thesis-references.bib
 csl: science-modified1.csl
 link-citations: yes
-linkcolor: black
+linkcolor: blue
 urlcolor: blue
 header-includes:
 - \usepackage{placeins}
@@ -154,19 +154,22 @@ tabl <- "
 ----------------------------------------------------------------------------------------
 Code               Full name            
 ------------------ ---------------------------------------------------------------------
-AM                 Arithmetic Mean
+CLASS              Classroom Assessment Scoring System
 
-API                Application Programmable Interface
+DCYF               Washington State Department of Children, Youth, and Families
 
-ASD                Arithmetic Standard Deviation
+ECEAP              Washington State Early Childhood Education and Assistance Program
 
-CDC                Centers for Disease Control and Prevention
+ERS                Environmnet Rating Scale
 
-WAC                Washington Administrative Code
+FCC                Family Childcare
 
-WSU                Washington State University
+PD                 Professional Development
 
-Zn                 Zinc
+RBPD               Relationship-based Professional Development
+
+WA                 Washington
+
 ----------------------------------------------------------------------------------------
 
 "

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.19)  19 OCT 2020 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.19)  19 OCT 2020 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -757,7 +757,7 @@ less on input line 1405.
 [36]
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 1461.
+less on input line 1466.
 
 [37] (./00-DISSERTATION.parent.aux)
 Package rerunfilecheck Info: File `00-DISSERTATION.parent.out' has not changed.
@@ -767,7 +767,7 @@ Package rerunfilecheck Info: File `00-DISSERTATION.parent.out' has not changed.
 Here is how much of TeX's memory you used:
  13232 strings out of 481865
  196879 string characters out of 5930607
- 538387 words of memory out of 5000000
+ 538385 words of memory out of 5000000
  29004 multiletter control sequences out of 15000+600000
  577301 words of font info for 102 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -785,7 +785,7 @@ Users/Min/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/Mi
 n/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/Min/Library
 /TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/Min/Library/TinyTe
 X/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 00-DISSERTATION.parent.pdf (45 pages, 3428151 bytes).
+Output written on 00-DISSERTATION.parent.pdf (45 pages, 3428428 bytes).
 PDF statistics:
  800 PDF objects out of 1000 (max. 8388607)
  718 compressed objects within 8 object streams

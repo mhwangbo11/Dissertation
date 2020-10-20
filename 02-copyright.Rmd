@@ -6,8 +6,8 @@ output: pdf_document
 
 \begin{centering}
 
-© Copyright 2017 \break
-Peter Parker
+© Copyright 2021 \break
+Min Hwangbo
 
 \end{centering}
 
