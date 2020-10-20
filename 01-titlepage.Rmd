@@ -9,13 +9,14 @@ output: pdf_document
 \begin{centering}
 
 \Large
-On Preventing Crime in New York City: \break
-Photo Journalism and Web-based Super Powers
+Inquiry of the current status of Washington state Early Learning Quality Rating Improvement System: \break 
+\break
+What factors contribute to the quality of a childcare? Preparing for the future.
 
 \vspace{1.75 cm}
 
 \normalsize
-Peter Parker
+Min Hwangbo
 
 \vspace{1.75 cm}
 
@@ -31,20 +32,21 @@ Doctor of Philosophy
 
 University of Washington
 
-2017
+2021
 
 \vspace{1 cm}
 
 Reading Committee:
 
-Jane J. Doe, Chair \break
-John L. Doe \break
-Stan Lee \break
+Gail E. Joseph, Chair \break
+Sylvia S. Bagley \break
+Soojin Oh Park \break
+Crystal C. Hall \break
 
 \vspace{1 cm}
 
 Program Authorized to Offer Degree: \break
-Department of Environmental and Occupational Health Sciences
+College of Education
 
 \end{centering}
 
